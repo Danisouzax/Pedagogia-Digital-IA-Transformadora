@@ -25,7 +25,6 @@ Preparação de um roteiro detalhado sobre "Pedagogia Digital: IA Transformadora
 O conteúdo abordará como a IA pode ser utilizada para personalizar o aprendizado, aumentar o engajamento dos estudantes e melhorar os resultados educacionais.
 
 - Integração de Voz e Linguagem:
-
 Implementação de tecnologia de processamento de linguagem natural (NLP) para que o avatar possa responder a perguntas do público de forma precisa e contextualizada.
 Desenvolvimento de uma voz sintetizada natural e agradável para o avatar.
 
