@@ -31,6 +31,7 @@ Desenvolvimento de uma voz sintetizada natural e agradável para o avatar.
 ## 🚀 Resultados
 
 O vídeo é uma exposição sobre Pedagogia Digital: IA Transformadora, enfatizando o impacto revolucionário que a inteligência artificial tem na educação.
+[Apresentação](https://studio.d-id.com/share?id=a12c1fcd88624f236c4f36e831a2596b&utm_source=copy)
 
 ## 💭 Reflexão 
 
