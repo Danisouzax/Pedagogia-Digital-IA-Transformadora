@@ -2,8 +2,6 @@
 
  > ℹ️ **NOTE:** Este projeto foi desenvolvido como parte do curso de Fundamentos de IA para Devs [DIO](https://dio.me), visando criar prompts úteis para facilitar o cotidiano. Representa uma excelente iniciativa para aplicar os conhecimentos adquiridos e demonstrar como a inteligência artificial pode aprimorar diversos aspectos.
 
-Projeto com o objetivo de criar um artigo técnico que apresente um layout atrativo, com leitura fluída e focado em promover sua autoridade no assunto.
-
 # Pedagogia Digital: IA Transformadora
 
 ## 📒 Descrição
